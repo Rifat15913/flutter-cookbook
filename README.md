@@ -1,4 +1,4 @@
-# flutter_cookbook
+# Flutter Cookbook
 
 An application full of cookbook lessons
 
